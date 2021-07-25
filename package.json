@@ -1,0 +1,23 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "my first nodejs app",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luissequeira94/nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luissequeira94/nodejs/issues"
+  },
+  "homepage": "https://github.com/luissequeira94/nodejs#readme"
+}
